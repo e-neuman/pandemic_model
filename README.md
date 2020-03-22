@@ -8,6 +8,4 @@ The model aims to:
 
 *Disclaimer: I am not an expert on the subject*
 
-You can run this code live in Google Colabs:
-[https://colab.research.google.com/drive/1VYLPpqmlnSrD72HWPk0Xj8cbMFJkPGyn]
-
+You can run this notebook live in [Google Colabs](https://colab.research.google.com/drive/1VYLPpqmlnSrD72HWPk0Xj8cbMFJkPGyn)
